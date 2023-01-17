@@ -32,11 +32,4 @@ document.querySelector("a").setAttribute("href", "https://en.wikipedia.org/wiki/
 document.querySelector("a").innerText = "Wikipedia"
 
 
-
-
-
-
-
-
-
 }
